@@ -1,0 +1,38 @@
+#id1{
+  margin:auto;
+  padding: 10px;
+  margin-top:50px;
+}
+#id2{
+  font-size: 45px;
+  margin:auto;
+  text-align: center;
+}
+#id3{
+  font-size: 30px;
+  margin:auto;
+  text-align: center;
+}
+#id4{
+  font-size: 20px;
+  margin:auto;
+  text-align: center;
+}
+#id5{
+  -webkit-text-fill-color: white;
+  background-color: rgb(0, 0, 0);
+  border-top-right-radius:5px;
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius:5px;
+  border-top-left-radius:5px;
+  text-align: center;
+  margin:auto;
+  border: 2px solid rgb(0, 0, 0);
+  height:40px;
+  width:150px;
+  cursor:pointer;
+}
+#id5:hover{
+  -webkit-text-fill-color: rgb(0, 0, 0);
+  background-color: white;
+}
